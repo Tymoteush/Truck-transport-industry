@@ -1,0 +1,96 @@
+Truck registration
+
+Notes:
+KEY: N = data do not exist.																
+																
+a Other light includes all trucks under 10,000 pounds gross vehicle weight excluding any listed Pickups, Vans and Sport utilities.																
+b Other medium/heavy includes all trucks over 10,000 pounds gross vehicle weight excluding any listed Farm trucks and Truck tactors.																
+																
+NOTES																
+Sums may not equal to total due to rounding.																
+Data for Farm trucks is no longer being collected as of 2013.																
+Data for Pickups, Vans, Sport utilities, and Other Light Trucks are for vehicles 10,000 pounds or less gross vehicle weight.																
+																
+SOURCE																
+U.S. Department of Transportation, Federal Highway Administration (FHWA), Highway Statistics (Washington, DC: Annual Issues), table MV-9, available at https://www.fhwa.dot.gov/policyinformation/statistics.cfm as of Feb. 16, 2021.
+
+Total operating revenues
+
+Notes:
+
+KEY:  N = data do not exist; R = revised;  U = data are not available.																											
+																											
+a Data from 1990 through 1997 include local trucking (4212), trucking, except local (4213), local trucking, without storage (4214), and courier services, except air (4215) based on SIC (Standard Industrial Classification). For 1998 and later, data includes truck transportation (484) and couriers and messengers (492) based on NAICS (North American Industry Classification System). Therefore, data from 1998 onward are not directly comparable with data prior to 1998.																											
+b Sources of revenue applied to operating expenses. Prior to 1984 excludes commuter rail, automated guideway, urban boat, demand responsive, and most rural and smaller systems. Includes operating assistance.																											
+c Amtrak began operations in 1971.																											
+d Includes foreign traffic moving on domestic Coastal and Great Lakes and inland waterways.																											
+e Oil pipeline revenues are much smaller than gas pipeline revenues because oil pipeline companies are common carriers that include transportation costs only.																											
+f Data are not directly comparable from year to year due to acquisition and mergers. Prior to 1975, pipeline companies are not categorized by distribution, integrated, or combination. Total numbers for these companies are 1960 = 5,505; 1965 = 7,437; 1970 = 10,542. In 1997, the American Gas Association revised the database that identifies companies by type (distribution, integrated, or transmission). This reclassification of companies has resulted in numerous additions to the distribution company sample, in particular from the integrated company sample.																											
+																											
+NOTES																											
+Eno Transportation Foundation has revised their methodologies for calculating water transportation and oil pipeline data series starting in 1990.																											
+Class I rail data for 2017 include the impact of tax reform.																											
+																											
+SOURCES																											
+Air carrier, domestic, all services:																											
+1960-70: Civil Aeronautics Board, Handbook of Airline Statistics, 1973 (Washington, DC:  March 1974).																											
+1975-80: Civil Aeronautics Board, Air Carrier Financial Statistics (Washington, DC:  Annual Issues), p. 1.																											
+1985-89: U.S. Department of Transportation, Bureau of Transportation Statistics, Office of Airline Information, Air Carrier Financial Statistics (Washington, DC:  Annual December Issues).																											
+1990-2020: U.S. Department of Transportation, Research and Innovative Technology Administration, Bureau of Transportation Statistics, Office of Airline Information, TranStats Database, Air Carrier Financial Reports, Schedule P-1.1 and Schedule P-1.2, available at http://www.transtats.bts.gov as of Jan. 27, 2022.																											
+Trucking:																											
+1990-97: U.S. Department of Commerce, U.S. Census Bureau, Transportation Annual Survey, 1998 (Washington, DC: January 2000), table 1.																											
+1998-2020: U.S. Department of Commerce, U.S. Census Bureau, Service Annual Survey (Washington, DC: Annual Issues), table 2 and similar tables in earlier editions, NAICS codes 484, 492, available at https://www.census.gov/programs-surveys/sas.html as of Jan. 27, 2022.																											
+Interurban and rural bus:																											
+U.S. Department of Commerce, U.S. Census Bureau, Service Annual Survey (Washington, DC: Annual Issues), table 2, NAICS code 4852, available at https://www.census.gov/programs-surveys/sas.html as of Jan. 27, 2022.																											
+Transit:																											
+1960-90: American Public Transportation Association, Public Transportation Fact Book, 2007 (Washington, DC: 2007), table 50 and similar tables in earlier editions.																											
+1991-2020: U.S. Department of Transportation, Federal Transit Administration, National Transit Database, (Washington, D.C.: Annual Reports), TS1.1 - Total Funding Time-Series, available at https://www.transit.dot.gov/ntd/ntd-data as of Jan. 27, 2022.																											
+Class I rail:																											
+Association of American Railroads, Railroad Facts (Washington, DC: Annual Issues), p. 12 and similar tables in earlier editions.  																											
+Intercity/Amtrak:																											
+1975-80: National Railroad Passenger Corporation (Amtrak), State and Local Affairs Department and Public Affairs Department, personal communication.																											
+1985-2004: National Railroad Passenger Corporation (Amtrak), Amtrak Annual Report, Statistical Appendix (Washington, DC: Annual Issues).																											
+2005-11: National Railroad Passenger Corporation (Amtrak), Amtrak Annual Report (Washington, DC: Annual Issues).																											
+2012-21: National Railroad Passenger Corporation (Amtrak), Report & Documents: Year-End Reports (Washington, D.C: September Issues), available at https://www.amtrak.com/reports-documents as of Jan. 27, 2022.																											
+Water transportation:																											
+1990-2004:  Eno Transportation Foundation, Inc., Transportation in America (Washington, DC: 2007), p. 32.																											
+2009-20: U.S. Department of Commerce, U.S. Census Bureau, Service Annual Survey (Washington, DC: Annual Issues), table 2 and similar tables in earlier editions, NAICS codes 483113, 483114, 483211, 483212, available at https://www.census.gov/programs-surveys/sas.html as of Jan. 27, 2022.																											
+Oil pipeline:																											
+1990-99:  Eno Transportation Foundation, Inc., Transportation in America (Washington, DC: 2007), p. 32.																											
+2000-20: PennWell Corporation, Oil and Gas Journal: Special Report - Pipeline Economics (Houston, TX), table 2, p 71 and similar tables in other editions.  																											
+Gas pipeline:																											
+American Gas Association, Gas Facts, Annual Income Accounts, Balance Sheets and Analytical Ratios (Washington, DC: Annual Issues), tables 11-1, 11-2, 11-3, and 11-4, and similar tables in earlier editions, available at https://www.aga.org/research/data/income-accounts-balance-sheets-and-analytical-ratios/ as of Jan. 27, 2022.																											
+
+Average Freight Revenue Per Ton-mile
+
+Note:
+
+KEY: N = data does not exist; R = revised; U = data are not available.																										
+																										
+a For 1990 and later, air carriers that did not report both financial data and all months of traffic data for a given period were excluded from the calculations. Cargo revenue includes both scheduled and charter property revenue and mail revenue.																										
+b General freight common carriers, most of which are LTL (less-than-truckload) carriers.																										
+c Total finished goods. Converted to 1990 base year index by the Bureau of Transportation Statistics and therefore not comparable to previous editions of this table.																										
+																										
+NOTE																										
+There is a break in the data from 1985 to 1990 for Truck, Barge, and Oil pipeline; therefore, data prior to 1990 cannot be indexed using 1990 as the base year because the data are incomparable.																										
+																										
+SOURCES																										
+Air carrier, domestic, scheduled service:																										
+1960: Civil Aeronautics Board, Handbook of Airline Statistics, 1969 (Washington, DC: 1970), part III, tables 2 and 13.																										
+1965-70: Civil Aeronautics Board, Handbook of Airline Statistics, 1973 (Washington, DC: 1974), part III, tables 2 and 13.																										
+1975-80: Civil Aeronautics Board, Air Carrier Traffic Statistics (Washington,  DC: 1976, 1981), pp. 4 and 14 (December 1976) and pp. 2 and 3 (December 1981).																										
+1985: U.S. Department of Transportation, Bureau of Transportation Statistics, Office of Airline Information, Air Carrier Traffic Statistics (Washington, DC:  Annual December Issues) (freight revenue ton-miles).																										
+1990-2021: U.S. Department of Transportation, Bureau of Transportation Statistics, TranStats Database, T-1, Schedule P-1.1, and Schedule P-1.2 data, available at http://www.transtats.bts.gov/ as of Jul. 7, 2022, special tabulation.																										
+Truck:																										
+As cited in U.S. Department of Transportation, Bureau of Transportation Statistics, Truck Profile, available at https://www.bts.gov/content/truck-profile as of Jul. 7, 2022, special tabulation.																										
+Class I rail:																										
+Association of American Railroads, Railroad Facts (Washington, DC: Annual Issues), p. 34 and similar pages in previous editions.																										
+Water Transportation, domestic:																										
+1990-2004: Eno Transportation Foundation, Inc., Transportation in America (Washington, DC: 2007), p. 46.																										
+2009-20: As cited in U.S. Department of Transportation, Bureau of Transportation Statistics, Water Transport Profile, available at https://www.bts.gov/content/water-transport-profile as of Jul. 7, 2022, special tabulation.																										
+Oil pipeline:																										
+1960-2007: PennWell Corporation, Oil and Gas Journal: Transportation Special Report (Houston, TX: September 2012 Issue), p. 127; and Association of Oil Pipe Lines, Shifts in Petroleum Transportation (Washington, DC: February 2012), table 1.																										
+2008-20: PennWell Corporation, Oil and Gas Journal: Transportation Special Report (Houston, TX: October 2019 Issue), p. 44; and U.S. Department of Transportation, Federal Highway Administration, Freight Analysis Framework, available at https://www.bts.gov/faf, as of Jul. 7, 2022, special tabulation.																										
+Producer Price Index:																										
+U.S. Department of Labor, Bureau of Labor Statistics, Producer Price Index-Commodities, available at http://www.bls.gov/ppi/ as of Jul. 7, 2022.																										
+															

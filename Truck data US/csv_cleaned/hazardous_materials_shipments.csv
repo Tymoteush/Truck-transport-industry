@@ -1,0 +1,10 @@
+Category,Value,Tons,Ton-miles,Average miles per shipment
+TOTAL all modes,1680.2,2968.0,382.5,189.0
+"Single modes, total",1612.1,2889.5,307.2,72.0
+Trucka,1091.3,1814.8,126.8,63.0
+Rail,39.0,90.4,61.7,640.0
+Water,137.1,304.2,60.9,72.0
+Air,4.8,0.3,0.2,1333.0
+"Multiple modes, total",68.1,78.4,75.3,947.0
+"Parcel, U.S. Postal Service or Courier",13.5,0.3,0.2,949.0
+Other,54.6,78.1,75.0,4.0
